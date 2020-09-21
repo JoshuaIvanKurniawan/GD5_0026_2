@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1082942672219",
+    "firebase_url": "https://gd5-c-0005-2.firebaseio.com",
+    "project_id": "gd5-c-0005-2",
+    "storage_bucket": "gd5-c-0005-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082942672219:android:fe3f9956b9bd9bf1765e7e",
+        "android_client_info": {
+          "package_name": "com.daviddharma.gd5_c_0005_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082942672219-gk6b5duf0s6e0mkhn839qds7gl4gh6rj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBriTqwBILvdSOHr8BUAceTYFHUx3Oq2ks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082942672219-gk6b5duf0s6e0mkhn839qds7gl4gh6rj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
